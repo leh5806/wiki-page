@@ -1,0 +1,77 @@
+body {
+  color: black;
+  font-size: 1em;
+  line-height: 1em;
+  font-family: Georgia, serif;
+  margin-left: 15em;
+  margin-right: 15em;
+}
+
+h1 {
+  margin-bottom: .5em;
+  font-weight: bold;
+}
+
+h2 {
+  margin-bottom: .3em;
+}
+
+#top{
+  margin-top: 1em;
+}
+
+hr {
+  width:100%;
+  color: gray;
+}
+
+#wikilogo {
+  width: 15%;
+  height: auto;
+}
+
+#middle {
+  margin-right: 22em;
+}
+
+.sidebar {
+  margin-top: 1em;
+  float:right;
+  width: 22em;
+  background-color:whitesmoke;
+  font-size: 90%;
+  line-height:1.5em;
+  padding: .5em;
+  border: 1px solid gray;
+}
+
+.sidebar-header {
+  text-align:center;
+  padding: .5em;
+}
+
+.sidebar-title {
+  font-weight: bold;
+  font-size: 120%;
+  margin-bottom: .5em;
+}
+
+.sidebar-image img {
+ height:22em;
+}
+
+.sidebar-table th, .sidebar-table td {
+  vertical-align: top;
+  padding-left: 1em;
+}
+
+.sidebar-table th {
+  text-align: left;
+  white-space: nowrap;
+}
+
+footer {
+  text-align: center;
+  margin-top: 2em;
+  font-size: 1em;
+}
